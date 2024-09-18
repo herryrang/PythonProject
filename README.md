@@ -31,6 +31,15 @@ Below is the screenshot of the main menu:
 
 ![Screenshot_18](https://github.com/user-attachments/assets/355efa23-8bdf-43c3-8bb3-5f82289431e3)
 
+## **Features**
+
+Below are the explanation of every feature this apps are have:
+
+1. Add a new book
+
+
+
+
 
 
 

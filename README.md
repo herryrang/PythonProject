@@ -43,7 +43,8 @@ Option 5 for "Delete a book"
 
 Below are the explanation of every feature this apps are have:
 
-1. Add a new book
+# 1. Add a new book
+
 In this feature, the librarian can add a new book that they need to add. To add a new book, the librarian must input ISBN, title, author, and the amount of book.
 After they add the data, there will be a notification that the book is added successfully in Bahasa.
 

@@ -10,6 +10,9 @@ This application was created using Visual Studio Code with Python Extension (.py
 
 This application is not connected to any database. The data included in the application is dummy data.
 
+Note : This application is using Bahasa as the interface language.^
+
+
 ----------------------------------------------------
 
 

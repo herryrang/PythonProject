@@ -101,7 +101,7 @@ Below is the screenshot of the "Update Book" feature and in the next picture we 
 In this feature, the librarian can delete book that they want to be excluded. To delete the book, first the librarian must input the ISBN of the book that want to deleted.
 After the book already deleted, there will be a notification "the book already been deleted" said in Bahasa. 
 
-Below is the screenshot of the "Delete Book" feature and in the next picture we can see that the book with ISBN no. B003 already dissapear:
+Below is the screenshot of the "Delete Book" feature and in the next picture we can see that the book with ISBN no. B003 already disappear:
 
 
 ![Screenshot_24](https://github.com/user-attachments/assets/22a4f702-c35c-47d4-91f5-c8679c21adc2)

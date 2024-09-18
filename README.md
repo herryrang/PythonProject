@@ -1,9 +1,15 @@
 ## **README**
 
-Harap baca ini terlebih dahulu sebelum Anda terus menggunakan aplikasi atau jika Anda mengalami masalah saat menjalankan aplikasi.
+Please read this first before you continue using the app or if you experience problems running the app.
 
-Aplikasi ini dibuat untuk proyek pertama saya untuk membuat aplikasi dengan fungsi CRUD. Dikarenakan aplikasi ini merupakan aplikasi sederhana, mungkin aplikasi ini memiliki banyak kekurangan baik dalam fungsi maupun fiturnya.
+This application was created for my first project to create an application with CRUD functionality. 
 
-Aplikasi ini dibuat dengan menggunakan Visual Studio Code dengan Python Extension (.py)
+Because this application is a simple application, it may have many shortcomings in terms of functions and features.
 
-Aplikasi ini tidak terhubung ke dalam database apa pun. Data yang disertakan dalam aplikasi merupakan data dummy.
+This application was created using Visual Studio Code with Python Extension (.py)
+
+This application is not connected to any database. The data included in the application is dummy data.
+
+----------------------------------------------------
+
+

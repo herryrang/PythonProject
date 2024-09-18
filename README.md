@@ -58,7 +58,7 @@ Below is the screenshot of the "Add a new book" feature.
 
 ### **2. Search Book**
 
-In this feature, the librarian can search for a book that they want to see the info for the book. To search a book, the librarian must input the title of the book that they want to search.
+In this feature, the librarian can search for a book that they want to see the info for the book. To search a book, the librarian must input the title of the book that want to searched.
 After they input the title of the book, there will be display for the info of the book that the librarian searched.
 
 Below is the screenshot of the "Search Book" feature.
@@ -79,9 +79,9 @@ Below is the screenshot of the "Display Book" feature.
 ![Screenshot_21](https://github.com/user-attachments/assets/fa73a049-4a2d-44e2-aadb-0e5c451e66d7)
 
 
-### **4. Update Book **
+### **4. Update Book**
 
-In this feature, the librarian can update the book data that they want to make change of. To update the book, first the librarian must input the ISBN of the book that they want to change.
+In this feature, the librarian can update the book data that they want to make change of. To update the book, first the librarian must input the ISBN of the book that want to changed.
 They can change the title, the author, and the amount of book but they cannot change the ISBN. If they dont want to change the info, they just make it blank and just press enter.
 
 Below is the screenshot of the "Update Book" feature and in the next picture we can see that the info regarding ISBN no. B003 already changed:
@@ -96,7 +96,28 @@ Below is the screenshot of the "Update Book" feature and in the next picture we 
 
 
 
-### **5. Delete book**
+### **5. Delete Book**
+
+In this feature, the librarian can delete book that they want to be excluded. To delete the book, first the librarian must input the ISBN of the book that want to deleted.
+After the book already deleted, there will be a notification "the book already been deleted" said in Bahasa. 
+
+Below is the screenshot of the "Delete Book" feature and in the next picture we can see that the book with ISBN no. B003 already dissapear:
+
+
+![Screenshot_24](https://github.com/user-attachments/assets/22a4f702-c35c-47d4-91f5-c8679c21adc2)
+
+
+
+![Screenshot_25](https://github.com/user-attachments/assets/48820743-b61a-4afa-bf02-d2256897bd01)
+
+
+
+
+
+
+
+
+
 
 
 

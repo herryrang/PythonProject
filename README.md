@@ -15,4 +15,19 @@ Note : This application is using Bahasa as the interface language.^
 
 ----------------------------------------------------
 
+## **Introduction**
+
+Welcome to the information system of the library
+This apps can help you to manage the list of books in the library. The feature from this apps are:
+
+- Add a new book
+- Search for a book
+- Display the list of book collection in the library
+- Update the book data
+- Delete a book
+
+Below is the screenshot of the main menu:
+
+
+  
 

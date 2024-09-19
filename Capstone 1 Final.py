@@ -68,6 +68,8 @@ while True:
         update_book()
     elif pilihan == "5":
         delete_book()
+    else:
+        print("Menu yang Anda masukkan salah")
 
     
 
